@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Asad
 - 👀 I’m interested in creating something new
-- 🌱 I’m currently putting my effort to become a good web developer
 - 📫 How to reach me -> Email : patelasad4@gmail.com
 
 ![ToyZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToyZ-95&count_private=true&show_icons=true)
