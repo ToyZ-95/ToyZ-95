@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Asad
+- 📚 Fast Learner
 - 👀 I’m interested in creating something new
 - 📫 How to reach me -> Email : patelasad4@gmail.com
 
