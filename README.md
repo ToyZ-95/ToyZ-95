@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating something new
 - 📫 How to reach me -> Email : patelasad4@gmail.com
 
-![ToyZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToyZ-95&count_private=true&show_icons=true&theme=chartreuse-dark)
+![ToyZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToyZ-95&count_private=true&show_icons=true&theme=gotham)
 
 
 
