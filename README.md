@@ -6,11 +6,11 @@
 <!--- ![ToyZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToyZ-95&count_private=true&show_icons=true&theme=gotham) --->
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToyZ-95&theme=codeSTACKr)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ToyZ-95&theme=codeSTACKr)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ToyZ-95&theme=codeSTACKr)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ToyZ-95&theme=codeSTACKr)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ToyZ-95&theme=codeSTACKr&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToyZ-95&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ToyZ-95&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ToyZ-95&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ToyZ-95&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ToyZ-95&theme=aura_dark&utcOffset=8)
 
 
 
