@@ -6,9 +6,11 @@
 <!--- ![ToyZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToyZ-95&count_private=true&show_icons=true&theme=gotham) --->
 
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/codeSTACKr/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/codeSTACKr/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/codeSTACKr/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToyZ-95&theme=codeSTACKr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ToyZ-95&theme=codeSTACKr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ToyZ-95&theme=codeSTACKr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ToyZ-95&theme=codeSTACKr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ToyZ-95&theme=codeSTACKr&utcOffset=8)
 
 
 
